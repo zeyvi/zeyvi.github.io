@@ -1,0 +1,18 @@
+
+# Pliki Word
+*.doc
+*.docx
+
+# Sprawozdania PDF
+*.pdf
+
+# Pliki PureRef
+*.pur
+
+# Pliki konfiguracyjne PhpStorm
+.idea/
+*.iml
+
+# Pliki tymczasowe
+*.tmp
+*.bak
